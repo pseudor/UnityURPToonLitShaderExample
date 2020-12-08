@@ -9,6 +9,48 @@ shader ON
 ![screenshot](https://i.imgur.com/xJSzAMZ.png)
 shader OFF
 ![screenshot](https://i.imgur.com/xqMkSKe.png)
+shader ON
+![screenshot](https://i.imgur.com/KGvkY3m.png)
+shader OFF
+![screenshot](https://i.imgur.com/0JiRa7k.png)
+
+SHADER ON
+![screenshot](https://i.imgur.com/utXF8Qq.png)
+![screenshot](https://i.imgur.com/oEsHSMM.png)
+BEFORE
+![screenshot](https://i.imgur.com/K6mZCcH.png)
+AFTER:
+![screenshot](https://i.imgur.com/hjEeAoM.png)
+see it in motion-> https://youtu.be/D9ocVzGJfI8
+
+---
+3D enviroment model TEST  
+![screenshot](https://i.imgur.com/AOAxQJ8.png)
+![screenshot](https://i.imgur.com/WlOQtCf.png)
+see it in motion-> https://youtu.be/GcW0pNo-zus
+
+Kawaii model TEST
+![screenshot](https://i.imgur.com/7CAw71u.png)
+![screenshot](https://i.imgur.com/42CUENh.png)
+
+Upgraded to Unity2020.2 (URP 10.2.1)
+SHADER ON
+![screenshot](https://i.imgur.com/6chTRCl.png)
+SHADER OFF
+![screenshot](https://i.imgur.com/Vu2M5zB.png)
+HD!
+![screenshot](https://i.imgur.com/KXYYfaN.png)
+
+shader ON
+![screenshot](https://i.imgur.com/A2NA1Po.png)
+shader OFF
+![screenshot](https://i.imgur.com/t9OqASe.png)
+shader ON
+![screenshot](https://i.imgur.com/VLZKP5h.png)
+shader OFF
+![screenshot](https://i.imgur.com/lTm0zvH.png)
+
+---
 
 BEFORE
 ![screenshot](https://i.imgur.com/JImt9l4.png)
@@ -23,15 +65,7 @@ AFTER
 (more shadow from trees)
 ![screenshot](https://i.imgur.com/qSygREh.png)
 ---
-SHADER ON
-![screenshot](https://i.imgur.com/utXF8Qq.png)
-![screenshot](https://i.imgur.com/oEsHSMM.png)
-BEFORE
-![screenshot](https://i.imgur.com/K6mZCcH.png)
-AFTER:
-![screenshot](https://i.imgur.com/hjEeAoM.png)
-see it in motion-> https://youtu.be/D9ocVzGJfI8
----
+
 BEFORE
 ![screenshot](https://i.imgur.com/rXEDmiy.png)
 AFTER:
@@ -140,6 +174,8 @@ BEFORE
 ![screenshot](https://i.imgur.com/dPvjIQK.png)
 AFTER
 ![screenshot](https://i.imgur.com/GvxXtva.png)
+
+
 
 
 
@@ -255,6 +291,13 @@ https://youtu.be/IP293mAmBCk
 ![screenshot](https://i.imgur.com/lt45arW.png)
 ![screenshot](https://i.imgur.com/RcSz8H1.png)
 
+different Background image TEST
+![screenshot](https://i.imgur.com/hev9PtZ.png)
+![screenshot](https://i.imgur.com/lRdXn3I.png)
+![screenshot](https://i.imgur.com/cx8tZox.png)
+![screenshot](https://i.imgur.com/GYPoNWT.png)
+![screenshot](https://i.imgur.com/fZw0Wzt.png)
+
 credits
 ------------------------
 model's creator in shader demo image/video: 
@@ -265,5 +308,8 @@ model's creator in shader demo image/video:
 - Azur Lane: Crosswave
 - Sour式鏡音リン
 - Unity-Chan in asset store
+- https://www.bilibili.com/blackboard/activity-mrfzrlha.html
+- 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters https://booth.pm/en/items/2557029 
+- Japanese Street by Art Equilibrium https://assetstore.unity.com/packages/3d/environments/urban/japanese-street-170162
 
 
